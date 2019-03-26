@@ -25,4 +25,6 @@
 
  - JSON: http://127.0.0.1:8000/api/users
  - JSON+debugbar: http://127.0.0.1:8000/api/users_debug
+ - JSON_V2+debugbar: http://127.0.0.1:8000/api/users_debug_v2
+ 
 
